@@ -2,7 +2,7 @@
 ### Presenter: Daniel Williams
 
 **Target Audience:** 
-- Beginners looking for the best way to get started with building web apps.
+- Beginners looking for the best way to get started with building web apps
 
 **Suggested Prerequisites:** 
 - No experience needed
