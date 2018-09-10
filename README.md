@@ -1,7 +1,7 @@
 <img src="https://batlgrounds.com/wp-content/uploads/2015/09/HNT-logo.png" width="148">
 
 # Hack the North 2018 Workshop Summary Sheets 
-Outlines and summary sheets for workshops run at Hack the North 2018.
+Outlines and summary sheets for workshops run at Hack the North 2018. Slides will also be posted here after the event.
 
 - [**Team Building**](/TeamBuilding.md)
 - [**Hacking the Ideation Process**](/Ideation.md)
