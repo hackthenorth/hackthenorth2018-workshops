@@ -6,15 +6,15 @@
 
 **Suggested Prerequisites:** 
 - No experience needed
-- Basic knowledge of HTML, CSS, and Javascript is a bonus
+- Basic knowledge of HTML, CSS, and JavaScript is a bonus
  
 **Workshop Goals:**
 
-Get partipants comfortable with using HTML & CSS to style a website, and using simple Javascript logic to interact with an API.
+Get partipants comfortable with using HTML & CSS to style a website, and using simple JavaScript logic to interact with an API.
 
 **Description:**
 
-Build a fully functional web app using HTML, CSS, Javascript & the Star Wars API.
+Build a fully functional web app using HTML, CSS, JavaScript & the Star Wars API.
 
 **Content Breakdown:**
 - How the web works at a super high level: HTTP protocol, server side vs. client side rendering, the server client relationship, how most websites are setup
@@ -24,7 +24,7 @@ Build a fully functional web app using HTML, CSS, Javascript & the Star Wars API
 - CSS: 
     - Styling and positioning elements on our website using a CSS stylesheet
     - Talking about height and width, display types, position types, padding vs. margin, animation/transitions, media queries
-- Javascript: fundamentals of Javascript, how to manipulate types, grabbing elements from the DOM
+- JavaScript: fundamentals of JavaScript, how to manipulate types, grabbing elements from the DOM
 - What is an API? 
 - Network requests
 - What to do next: new & cool APIs, helpful frameworks
