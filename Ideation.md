@@ -10,7 +10,7 @@
 **Workshop Goals:**
 - Get familiar with the process and concept of innovation
 - Understand the development and identification of ideas 
-- Build skills such as creativity, teamwork and communication
+- Build skills such as creativity, teamwork, and communication
 - Get hands on experience using the entrepreneurial mindset to identify and attempt to solve a problem
 
 **Description:**
