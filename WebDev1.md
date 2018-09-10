@@ -9,6 +9,7 @@
 - Basic knowledge of HTML, CSS, and Javascript is a bonus
  
 **Workshop Goals:**
+
 Get partipants comfortable with using HTML & CSS to style a website as well as simple Javascript logic to interact with an API.
 
 **Description:**
