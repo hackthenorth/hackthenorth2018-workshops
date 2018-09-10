@@ -31,3 +31,7 @@ Idea to Market is a session that examines the concept of entrepreneurship and ho
 - Report out
     - Hackers share how they’ll take action and their personal next steps 
     - Accountability and commitment - how do you manage it all?
+ 
+**Resources:**
+- [Lean Canvas](/%5BWorksheet%5D%20Lean%20Canvas.pdf)
+- [Customer Discovery](/%5BWorksheet%5D%20Customer%20Discovery.pdf)
