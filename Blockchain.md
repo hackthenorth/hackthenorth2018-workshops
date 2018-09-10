@@ -1,4 +1,4 @@
-## Intro to Web3
+## Integrating Blockchain: Intro to Web3
 ### Presenters: Calvin Chan & Anthony Zhang
 
 **Target Audience:** 
