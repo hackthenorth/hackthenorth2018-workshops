@@ -10,7 +10,9 @@
 
 **Workshop Goals:**
 
-- Create [this illustration](/Illustration.png) using Figma
+- Create the following illustration using Figma:
+
+<img src="/Illustration.png" width="30">
 
 **Description:**
 
