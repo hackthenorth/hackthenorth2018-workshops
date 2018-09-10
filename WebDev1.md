@@ -10,7 +10,7 @@
  
 **Workshop Goals:**
 
-Get partipants comfortable with using HTML & CSS to style a website as well as simple Javascript logic to interact with an API.
+Get partipants comfortable with using HTML & CSS to style a website, and using simple Javascript logic to interact with an API.
 
 **Description:**
 
