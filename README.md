@@ -3,10 +3,10 @@
 # Hack the North 2018 Workshop Summary Sheets 
 Outlines and summary sheets for workshops run at Hack the North 2018.
 
-- [**Team Building**](/TeamBuilding.pdf)
-- [**Hacking the Ideation Process**](/Ideation.pdf)
-- [**Web Dev 1**](/WebDev1.pdf)
-- [**Web Dev 2 (Frontend)**](/WebDev2Frontend.pdf)
+- [**Team Building**](/TeamBuilding.md)
+- [**Hacking the Ideation Process**](/Ideation.md)
+- [**Web Dev 1**](/WebDev1.md)
+- [**Web Dev 2 (Frontend)**](/WebDev2Frontend.md)
 - [**Web Dev 2 (Backend)**](WebDev2Backend.md)
 - [**Android 1**](/Android1.md)
 - [**Android 2**](/Android2.md)
@@ -15,7 +15,7 @@ Outlines and summary sheets for workshops run at Hack the North 2018.
 - [**API 101**](/API101.md)
 - [**Game Dev**](/GameDev.md)
 - [**Machine Learning**](/MachineLearning.md)
-- [**Design 1**](/Design.md)
+- [**Building Products from Scratch**](/Design.md)
 - [**Creating Digital Illustrations**](/DigitalIllustrations.md)
 - [**Virtual Reality**](/VirtualReality.md)
 - [**Blockchain**](/Blockchain.md)
