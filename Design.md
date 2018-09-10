@@ -36,7 +36,7 @@
         - At a company
         - For a school project
 - Product Design
-    - What is Product Design?
+    - What is product design?
     - Where does product design fit?
     - Design principles
     - Tips and tricks, tools, resources
