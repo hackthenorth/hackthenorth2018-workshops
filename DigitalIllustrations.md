@@ -12,7 +12,7 @@
 
 - Create the following illustration using Figma:
 
-<img src="/Illustration.png" width="30">
+<img src="/Illustration.png" width="300">
 
 **Description:**
 
