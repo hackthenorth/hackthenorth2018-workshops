@@ -18,7 +18,7 @@ Further finesse your Android skills with more advanced Android concepts and know
 - Running a functioning multi-activity app
 
 **Content Breakdown:**
-- Setting up first activity from Android I or cloning from GitHub
+- Setting up first activity from Android 1 or cloning from GitHub
 - Explaining Android lifecycle & walking through lifecycle
 - Creating another activity and passing data
 - Using the data, either open camera or display some TextView
