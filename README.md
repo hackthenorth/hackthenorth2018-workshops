@@ -25,3 +25,4 @@ Outlines and summary sheets for workshops run at Hack the North 2018. Slides wil
 - [**Data Science**](/DataScience.md)
 - [**Mental Health**](/MentalHealth.md)
 - [**Idea To Market**](/IdeaToMarket.md)
+- [**How To Demo**](/HowToDemo.md)
