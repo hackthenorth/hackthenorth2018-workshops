@@ -15,7 +15,7 @@ Outlines and summary sheets for workshops run at Hack the North 2018. Slides wil
 - [**API 101**](/API101.md)
 - [**Game Dev**](/GameDev.md)
 - [**Machine Learning**](/MachineLearning.md)
-- [**Building Products from Scratch**](/Design.md)
+- [**Building Products from Scratch: The Hackathon Design Sprint**](/Design.md)
 - [**Creating Digital Illustrations**](/DigitalIllustrations.md)
 - [**Virtual Reality**](/VirtualReality.md)
 - [**Blockchain**](/Blockchain.md)
