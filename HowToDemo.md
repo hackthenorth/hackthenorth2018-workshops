@@ -16,7 +16,7 @@
 
 **Description:**
 
-Do you know your ABCs? I’m talking about Always Be Closing! 
+Don't let your 36 hours of hacking end with a bad demo. Learn how to give a kick-ass demo with Andrew and Brandon, past hackathon and national pitch competition winners!
 
 **Content Breakdown:**
 - Introduction: Who are we? Why should you care? What do we want you to come out of this with?
