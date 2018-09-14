@@ -2,7 +2,7 @@
 ### Presenters:
 - Product Management: Kaitlyn Yong
 - Software Engineering: Anthony Zhang & Calvin Chan 
-- Design: Simran Jassal & Queeni Wu
+- Design: Simran Jassal & Queenie Wu
 - Data Science: Matthew Reyes
 
 **Target Audience:** 
