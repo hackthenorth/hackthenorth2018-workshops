@@ -40,3 +40,10 @@ This workshop serves as an introduction to the Figma interface as well as illust
 - Make boat
     - Adding accents
     - Copy and pasting
+
+**Resources:**
+* [Tutorial](https://drive.google.com/file/d/1aBumGp9tQZTO_OfN3zz2E3p2M6rQbAM2/view?usp=sharing)
+* [Figma](https://www.figma.com/file/Wb5C6p8n2Yx0ye9nHnaLFDh1/Toronto?node-id=0%3A1)
+* [Image assets (maple leaf)](https://drive.google.com/file/d/1v2toBTYqr6G0TSebDQ6Fp7WFgN5rr1Q9/view?usp=sharing)
+* [Image assets (CN Tower)](https://drive.google.com/file/d/1H6Il4qZO8fDEYZsNOhY_StlHLO_i9NWB/view?usp=sharing)
+* [Slides](https://docs.google.com/presentation/d/1L_mUFheDieY54U10-Gq1nP77utK9mCH99LFZcgKKyT0/edit?usp=sharing)
