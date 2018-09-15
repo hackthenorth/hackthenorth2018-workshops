@@ -32,7 +32,7 @@ Don't let your 36 hours of hacking end with a bad demo. Learn how to give a kick
 
 #### Further Reading
 * [7 Tips for Creating a Kickass Demo Every Hacker Should Know](./HowToDemo-7Tips.md)
-P.S. You really should read this even if you don't come to the session ^
+    * P.S. You really should read this even if you don't come to the session!
 
 #### About the Presenters
 Both Andrew and Brandon are dedicated to helping hackers get their ideas understood and seen by the world. What makes them effective is their entrepreneurial mindset and being hackers themselves. Their experience includes winning national pitch competitions and hackathons, with over $30,000 in combined winnings.
