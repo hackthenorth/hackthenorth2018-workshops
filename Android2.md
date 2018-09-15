@@ -23,5 +23,7 @@ Further finesse your Android skills with more advanced Android concepts and know
 - Creating another activity and passing data
 - Using the data, either open camera or display some TextView
 - Q&A
+
+**[Slides](https://docs.google.com/presentation/d/1y4i5Xp9gnhDlRnCHXAHhfjvx3MKwnh3D48TEhDL8soY/edit?usp=sharing)**
  
 
