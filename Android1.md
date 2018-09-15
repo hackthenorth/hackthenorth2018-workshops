@@ -25,3 +25,5 @@ Get acquainted with Android development and make those first steps towards creat
 - Creating UI elements: ImageViews, TextViews, Buttons in XML
 - Adding code to make an interactive button that will change UI elements
 - Q&A
+
+**[Slides](https://docs.google.com/presentation/d/1y4i5Xp9gnhDlRnCHXAHhfjvx3MKwnh3D48TEhDL8soY/edit?usp=sharing)**
