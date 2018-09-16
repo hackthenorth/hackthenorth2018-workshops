@@ -1,12 +1,7 @@
 ## How to Demo
 ### Presenter: Brandon Chow & Andrew Paradi
 
-<<<<<<< HEAD
 #### Target Audience
-=======
-### Target Audience
->>>>>>> a8ebaf5... How to Demo Update 2
-
 - Hackers new to pitching
 - Hackers wanting to improve their demo
 
