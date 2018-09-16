@@ -29,7 +29,7 @@ Don't let your 36 hours of hacking end with a bad demo. Learn how to give a kick
 - Practice Your Demo: It’s time. Go up and practice your demo in our supportive, judgement-free zone. This is also your chance to pick Andrew and Brandon’s brain.
 - Conclusion: Summarizing key takeaways and next steps for you as a leet hacker.
 
-###Further Reading
+#### Further Reading
 * [7 Tips for Creating a Kickass Demo Every Hacker Should Know](./HowToDemo-7Tips.md)
 * [The 9 Step ABC Framework to Doing a Great Hack Demo](./HowToDemo-ABC-Framework.md)
 * P.S. You really should read these even if you don't come to the session ^
