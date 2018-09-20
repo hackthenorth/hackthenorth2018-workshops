@@ -33,6 +33,7 @@ Don't let your 36 hours of hacking end with a bad demo. Learn how to give a kick
 * [7 Tips for Creating a Kickass Demo Every Hacker Should Know](./HowToDemo-7Tips.md)
 * [The 9 Step ABC Framework to Doing a Great Hack Demo](./HowToDemo-ABC-Framework.md)
    * P.S. You really should read these even if you don't come to the session
+* [Workshop Slides](./HowToDemo-Slides.pdf)
 
 #### About the Presenters
 Both Andrew and Brandon are dedicated to helping hackers get their ideas understood and seen by the world. What makes them effective is their entrepreneurial mindset and being hackers themselves. Their experience includes winning national pitch competitions and hackathons, with over $30,000 in combined winnings.
