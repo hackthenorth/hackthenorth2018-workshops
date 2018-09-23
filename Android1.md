@@ -26,8 +26,6 @@ Get acquainted with Android development and make those first steps towards creat
 - Adding code to make an interactive button that will change UI elements
 - Q&A
 
-**[Slides](https://docs.google.com/presentation/d/1y4i5Xp9gnhDlRnCHXAHhfjvx3MKwnh3D48TEhDL8soY/edit?usp=sharing)**
-
 **Key Notes:** 
 * XML structure: 
     * Tags indicate the structure (eg. \<LinearLayout\> … \</LinearLayout\>, \<TextView … /\>)
@@ -43,4 +41,6 @@ Get acquainted with Android development and make those first steps towards creat
     * TextViews: can set text, font family, textSize, etc. 
     * Buttons: can set clickable, text, background
           * In the Java file, you can attach an onClickListener(..) to allow for user interaction
+
+**[Slides](https://docs.google.com/presentation/d/1y4i5Xp9gnhDlRnCHXAHhfjvx3MKwnh3D48TEhDL8soY/edit?usp=sharing)**
 
