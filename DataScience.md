@@ -32,4 +32,4 @@ In this workshop, dive headfirst into the world of data science and learn how to
     - Go over content in Python notebook
 - Q&A
 
-
+**[Slides](https://docs.google.com/presentation/d/1kC7qipKppOei__AaLbwiHEiXt5fqMv8lRIv_3jx59yI/edit)**
