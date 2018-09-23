@@ -24,6 +24,10 @@ Further finesse your Android skills with more advanced Android concepts and know
 - Using the data, either open camera or display some TextView
 - Q&A
 
+**[Slides](https://docs.google.com/presentation/d/1y4i5Xp9gnhDlRnCHXAHhfjvx3MKwnh3D48TEhDL8soY/edit?usp=sharing)**
+
+---
+
 **Key Notes:**
 * Android Lifecycle 
     * onCreate() - activity created, all the normal setup happens (views, data population), Bundle from activity’s previously frozen state is obtained, followed by onStart()
@@ -40,7 +44,4 @@ Further finesse your Android skills with more advanced Android concepts and know
     * To carry any data over to the new activity from the old one, put it in a Bundle and add it to the intent 
     * intent.putExtras(“key”, “value”);
     * In the new activity, call getIntent().getExtras() to get the Bundle with the information and parse the data you passed 
-
-**[Slides](https://docs.google.com/presentation/d/1y4i5Xp9gnhDlRnCHXAHhfjvx3MKwnh3D48TEhDL8soY/edit?usp=sharing)**
- 
 
