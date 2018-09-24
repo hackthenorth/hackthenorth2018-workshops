@@ -58,10 +58,10 @@ Come learn about VR development & meet others to build the future!
         * Low resolution, so hard to read text (right now)
 
 * Understanding VR Development
-        * The only difference between VR development and any other game development with Unity is input and output, most of which is abstracted.
-        * Traditional input: 	keyboards/mouse
-        * VR input:		head & hand position
+    * The only difference between VR development and any other game development with Unity is input and output, most of which is abstracted.
+    * Traditional input: 	keyboards/mouse
+    * VR input:		head & hand position
 
 * Making a VR App
-        * I will quickly spin up and deploy an app for the Google Cardboard on my computer, which already has Unity and all the various SDKs installed to speed up the process.
-        * I will pass the Cardboard down to let you see for yourselves.
+    * I will quickly spin up and deploy an app for the Google Cardboard on my computer, which already has Unity and all the various SDKs installed to speed up the process.
+    * I will pass the Cardboard down to let you see for yourselves.
