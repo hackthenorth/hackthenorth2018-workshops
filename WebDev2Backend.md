@@ -39,7 +39,7 @@ This workshop aims to teach the basic concepts behind a simple REST API such as 
 ---
 
 **Key Notes:**
-* What is an API
+* What is an API?
     * REST: REpresentational State Transfer
     * 4 common requests
         * GET: Fetches a resource from the server
@@ -56,7 +56,7 @@ This workshop aims to teach the basic concepts behind a simple REST API such as 
         * Body
     * Common endpoint layout
     * Todo list endpoint layout
-    * Walk through barebones express app
+    * Walk through barebones Express app
 
 * Data storage
     * In memory
