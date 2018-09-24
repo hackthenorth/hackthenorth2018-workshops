@@ -37,4 +37,8 @@ Learn why good tech can make bad products and how to better solve social issues.
     - Resources, UW Blueprint, and final lessons learned
     - Q&A
  
+ **[Slides](https://docs.google.com/presentation/d/1uVqBJGTF_C-vfl2Uzn6mCixF4HMFIacsUqb4fvgrlHA/edit#slide=id.g2635f9c52a_0_45)**
+
+**[Case study to critique](https://onetoday.google.com/)**
+
  
