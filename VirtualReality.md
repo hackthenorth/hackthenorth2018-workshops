@@ -30,3 +30,38 @@ Come learn about VR development & meet others to build the future!
 - Questions
 - Now you make an app!
     - Start setting up for VR development (or continue your hack) and get help
+ 
+ **[Slides](https://docs.google.com/presentation/d/1-az1ySwzwFAUza6TUBLWI1wzVNcHuMv2DDYWLjyc978)**
+ 
+---
+
+* VR Capabilities & Shortcomings
+    * Uses
+        * Games (e.g. Robo Recall, Superhot)
+        * Amusement parks (e.g. VR rides)
+        * Simulations (e.g. Driving)
+        * Training (e.g. Surgery)
+        * Producing art (e.g. Tilt Brush)
+        * Communication (e.g. VRChat, Rec room)
+        * Meditation
+    * Capabilities
+        * Full visual immersion: can look in any direction just like in real life
+        * 360 audio
+        * Both eyes
+        * Eye-tracking (in some)
+        * Head & hand motion tracking (6 DOF)
+        * Physics
+        * Natural input
+    * Shortcomings
+        * Motion sickness
+        * Only sight, missing all other senses
+        * Low resolution, so hard to read text (right now)
+
+* Understanding VR Development
+        * The only difference between VR development and any other game development with Unity is input and output, most of which is abstracted.
+        * Traditional input: 	keyboards/mouse
+        * VR input:		head & hand position
+
+* Making a VR App
+        * I will quickly spin up and deploy an app for the Google Cardboard on my computer, which already has Unity and all the various SDKs installed to speed up the process.
+        * I will pass the Cardboard down to let you see for yourselves.
