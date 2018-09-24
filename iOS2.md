@@ -30,3 +30,5 @@ Learn the basics of how to use Firebase Authentication and Realtime Database in 
     - Set up a new iOS project
     - Implement Firebase authentication and firebase database
 - Q&A: answering questions to do with hacker projects and how to implement them
+
+**[Slides](./iOS2)**
