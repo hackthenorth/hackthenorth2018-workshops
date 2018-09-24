@@ -65,3 +65,37 @@ Learn how Unity's editor is structured, how Unity projects are structured, how U
 **Resources**
 - [Code](https://github.com/Centribo/unity-starter-tutorial)
 - [Assets](http://www.centribo.com/unityAssets.zip)
+
+**[Slides](http://bit.ly/UWGDCUnity101)**
+
+--- 
+
+**Key Notes:**
+* Game Engines
+    * Game engines are like any other tool or framework
+    * Choose the right tool for the job, choose the right game engine for your game
+
+* Unity Projects
+    * Just a folder structure
+    * “Assets” is where everything you want in your game to go
+
+
+* Unity UI
+    * Scene View = The behind the scenes developer’s view
+    * Game View = What the player who is playing your game sees
+    * Hierarchy = What objects and entities are in your game right now
+    * Inspector = Specific details and properties of a certain object
+    * Project = File browser to see all the assets in your game
+    * Console = Debugging console, useful for printing errors/information to
+
+
+* Scripting/Programming
+    * Everything exists as a “GameObject”
+    * Every GameObject has components that add functionality or behaviour to it
+    * Almost always, you are adding components to GameObject
+    * Every GameObject will have at least a transform component that tells Unity where it exists in 3D space, how it is rotated, and how it is scaled
+    * Input
+        * In Unity: Edit -> Project Settings -> Input
+        * Access inputs via https://docs.unity3d.com/ScriptReference/Input.html in code
+        * For example: Input.GetButtonDown("Fire1")
+    * For everything else: https://docs.unity3d.com/ScriptReference/
