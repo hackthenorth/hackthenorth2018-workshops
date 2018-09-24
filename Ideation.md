@@ -30,4 +30,4 @@ Hacking the Ideation Process is a hands on session that examines the concept of 
 - [Innovation Jam](%5BWorksheet%5D%20Innovation%20Jam.pdf)
 - [League of Innovators’ startup workbook](StartupWorkBook.pdf) 
 
-**[Slides](./Hacking the Ideation Process.pptx)**
+**[Slides](./Hacking%20the%20Ideation%20Process.pptx)**
