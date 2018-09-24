@@ -39,7 +39,7 @@ We will build a simple app step-by-step to display information about your GitHub
 --- 
 
 **Key Notes:**
-* [Workshop overview](https://github.com/devonboyer/workshops/tree/master/hack-the-north-18/creating-user-interfaces)
+* [Full tutorial](https://github.com/devonboyer/workshops/tree/master/hack-the-north-18/creating-user-interfaces)
 
 * Introduction
     * I’m Devon Boyer, currently in 4A Computer Science at UW
