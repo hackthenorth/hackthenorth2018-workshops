@@ -26,3 +26,5 @@ This session will explore using the ML project pipeline, Microsoft Azure (Jupyte
     - Covering the steps in completing a machine learning project.
 - End-to-End Solution in Python
     - An interactive code walkthrough of an end-to-end machine learning project.
+
+**[Slides](https://docs.google.com/presentation/d/1FjfqNkqYUfQ4kSllE1SRpn9r_eZCAd_1NupWdi6qk2k/edit?usp=sharing)**
