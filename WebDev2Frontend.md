@@ -60,3 +60,5 @@ This workshop will focus on three key ideas:
         - Reactive RxJS
 - Introduction to the CSS Box model and Flexbox: see [here](https://github.com/kpsuperplane/masseyhacks-3-workshop)
 
+**[Slides](https://docs.google.com/presentation/d/1C_wiSl_Q2Idkf12YAnYibbFU0LpoWL6LzLAqMwu_N6Y/edit#slide=id.p)**
+
