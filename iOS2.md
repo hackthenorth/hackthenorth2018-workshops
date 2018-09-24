@@ -12,7 +12,6 @@
 - OOP knowledge
 - Swift knowledge
 
-
 **Workshop Goals:**
 
 The goal of this workshop is to help those with a basic understanding of iOS development take the next step with their apps using authentication and a realtime database.
@@ -28,6 +27,6 @@ Learn the basics of how to use Firebase Authentication and Realtime Database in 
     - Overview of what skills should be known
     - What cloud options exist and why use the cloud
 - Interactive Project
-    - Setup a new iOS project
+    - Set up a new iOS project
     - Implement Firebase authentication and firebase database
 - Q&A: answering questions to do with hacker projects and how to implement them
